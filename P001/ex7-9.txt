@@ -1,0 +1,12 @@
+Exercicio 7:
+C/C++ Extension Pack
+
+C/C++ Compile Run
+
+Exercico 8:
+C/C++ Compile Run
+    Quando compilado um codigo em C++, é criada uma pasta output 
+    com o arquivo executavel e os arquivos binarios
+C/C++ Extension Pack
+    Pacote de extensões que permite compilar e executar codigos do tipo .cpp.
+
